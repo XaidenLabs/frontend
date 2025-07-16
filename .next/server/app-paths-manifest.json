@@ -1,0 +1,8 @@
+{
+  "/auth/become-seller/page": "app/auth/become-seller/page.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/products/[product]/page": "app/products/[product]/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/auth/signup/[verify]/page": "app/auth/signup/[verify]/page.js",
+  "/page": "app/page.js"
+}
